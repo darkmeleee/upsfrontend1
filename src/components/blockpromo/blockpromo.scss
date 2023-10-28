@@ -1,0 +1,115 @@
+@font-face {
+	font-family: 'Mont';
+	src: url('../../../lib/MontRegular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 400;
+}
+@font-face {
+    font-family: 'Mont';
+    src: url('../../../lib/MontSemiBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Mont';
+    src: url('../../../lib/MontBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 700;
+}
+
+.Text1{
+    width: 292px;
+    height: 60px;
+    top: 10px;
+    left: 60px;
+    font-family: 'Mont', sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    background: #FFFFFF;
+    position: relative;
+
+    
+
+}
+
+.BlockPromo{
+    position: absolute;
+    width: 1060px;
+    height: 180px;
+    top: 426px;
+    left: 190px;
+    border-radius: 20px;
+    gap: 10px;
+    background: #FFFFFF;
+    box-shadow: 5px 5px 25px 0px #79797926;
+
+}
+
+.man1{
+    position: absolute;
+    width: 209px;
+    height: 157px;
+    top: 12px;
+    left: 609px;
+
+}
+
+.Button{
+    position: absolute;
+    width: 189px;
+    height: 48px;
+    top: 100px;
+    left: 60px;
+    padding: 15px, 70px, 15px, 70px;
+    border-radius: 20px;
+    gap: 10px;
+    background: #FEA300;
+    font-family: Mont;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+
+
+
+}
+
+
+
+.Text2{
+    position: relative;
+    width: 49px;
+    height: 18px;
+    font-family: Mont;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-left: 70px;
+    color: white;
+
+}
+
+.man2{
+    position: absolute; 
+    width: 75px;
+    height: 55px;
+    top: 54px;
+    left: 798px;
+}
+
+.man3{
+    position: absolute;
+    width: 125px;
+    height: 93px;
+    top: 35px;
+    left: 900px;
+    
+
+}
